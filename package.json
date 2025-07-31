@@ -1,0 +1,36 @@
+{
+  "name": "smk-negeri-64-jakarta-website",
+  "version": "1.0.0",
+  "description": "Website resmi SMK Negeri 64 Jakarta dengan desain modern, minimalis, dan elegan",
+  "main": "index.php",
+  "scripts": {
+    "dev": "php -S localhost:8000",
+    "build": "echo 'No build process required for PHP project'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "smk",
+    "jakarta",
+    "sekolah",
+    "website",
+    "php",
+    "modern",
+    "responsive"
+  ],
+  "author": "SMK Negeri 64 Jakarta",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smkn64jakarta/website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smkn64jakarta/website/issues"
+  },
+  "homepage": "https://smkn64jakarta.sch.id",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "php": ">=7.4",
+    "node": ">=14.0.0"
+  }
+} 

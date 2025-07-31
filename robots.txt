@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://smkn64jakarta.sch.id/sitemap.xml
+
+# Disallow admin area
+Disallow: /admin/
+
+# Allow CSS, JS, and Images
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/ 
